@@ -1,0 +1,28 @@
+body{
+  margin: 0;
+  text-align: center;
+  background-color: rgb(154,166,162);
+  font-family: fantasy;
+}
+h1{
+  width: 10%;
+  margin: 0 auto;
+}
+.top{
+  background-color:
+}
+.middle{
+  background-color:
+}
+.bottom{
+  background-color:
+}
+.bottom-cloud{
+  position: absolute;
+
+}
+.top-cloud{
+  position: relative;
+  left: 200px;
+  margin-top: 50px;
+}
